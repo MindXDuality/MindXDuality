@@ -26,7 +26,7 @@
 A Diet management system project.
 
 🔹 **React First Project**  
-My first project using ReactJS.
+One of my first projects was created using CSS.
 
 ---
 
