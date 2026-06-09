@@ -1,33 +1,29 @@
-![Header](github-header-banner.png)
+<h2  align="center"> Hello! I am Hitler</h2>
 
 <h3 align="center">Aspiring Web Developer</h3>
 
 ---
 
-🌱 I’m currently learning **JavaScript and React**
+🌱 I’m currently learning **React and CSS**
 
-💻 I enjoy building web applications and exploring new technologies.
+🚀 I enjoy building web applications, exploring new technologies, and improving my development skills every day.
 
-⚡ Fun fact: I’m still learning but I enjoy solving coding problems!
+⚡ Fun Fact: I love solving coding challenges and turning ideas into real applications.
 
 ---
 
 ## 🚀 Skills & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,php,git,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,vscode" />
 </p>
 
 ---
 
 ## 📂 Projects
 
-🔹 **MediClinic Capstone**  
-A healthcare management system project.
-[View My MediClinic Project](https://github.com/MediclinicCapstoneP/MediClinic_Repo.git)
-
-🔹 **Job Allocation API**  
-An API built using C# for managing job allocation.
+🔹 **NutriPlan Capstone**  
+A Diet management system project.
 
 🔹 **React First Project**  
 My first project using ReactJS.
@@ -37,7 +33,7 @@ My first project using ReactJS.
 ## 📫 Connect With Me
 
 LinkedIn:  
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pagatpat-ricksel-69624a30b/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/fuentesh)
 
 
 ---
