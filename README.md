@@ -1,20 +1,22 @@
-## Hello! I am Hitler
+👋 Hello! I'm Hitler
 Aspiring Web Developer
 
-****
-I'm Currently learning **React Native** and **CSS**
+💻 I'm currently learning React Native and CSS.
 
-<!--
-**MindXDuality/MindXDuality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I enjoy building web applications, exploring new technologies, and improving my development skills every day.
 
-Here are some ideas to get you started:
+🌱 Currently focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React Native
+Modern CSS & Responsive Design
+JavaScript & Frontend Development
+
+🎯 Goals:
+
+Build useful and user-friendly applications
+Contribute to open-source projects
+Grow as a full-stack developer
+
+📫 Feel free to explore my repositories and follow my journey as I continue learning and creating new projects!
+
+⚡ Fun Fact: I love solving coding challenges and turning ideas into real applications.
