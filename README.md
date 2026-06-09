@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello! I am Hitler
+
+  Aspiring Web Developer
+  
 
 <!--
 **MindXDuality/MindXDuality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
