@@ -1,7 +1,8 @@
 ## Hello! I am Hitler
 
   Aspiring Web Developer
-  
+
+I'm Currently learning **React Native** and **CSS**
 
 <!--
 **MindXDuality/MindXDuality** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
